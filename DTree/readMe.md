@@ -1,0 +1,1 @@
+Also demonstrate how to punish a specific label.
